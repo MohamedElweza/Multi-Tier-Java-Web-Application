@@ -30,7 +30,8 @@ The architecture consists of **five virtual machines** running the following ser
 - **Message Broker (RabbitMQ)**
 - **Cache Server (Memcached)**
 
-![Project Architecture](./architecture.gif)![2025-01-3114-44-13online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/80b5c346-5770-4098-a49e-a682aa9efda8)
+![Project Architecture](./architecture.gif)![2025-01-3114-44-13online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/36036a1f-05b7-409d-9113-cd3ed7942f45)
+
 
 
 ## 📌 Project Setup
@@ -44,7 +45,6 @@ Before you start, make sure you have:
 ### 2️⃣ Clone This Repository
 ```sh
 $ git clone https://github.com/yourusername/multi-tier-java-app.git
-$ cd multi-tier-java-app
 ```
 
 ### 3️⃣ Start the Virtual Machines
